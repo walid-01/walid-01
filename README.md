@@ -4,5 +4,6 @@
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=walid-01&layout=compact&show_icons=true&theme=nord&border_radius=20)
 
   ![GitHub Streak](https://streak-stats.demolab.com/?user=walid-01&count_private=true&theme=nord&border_radius=20)
+  
 
 </div>
