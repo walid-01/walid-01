@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oualid</h1>
-<h3 align="center">A passionate software developper from Algeria</h3>
+<h3 align="center">A passionate software developper</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walid-01" alt="walid-01" /></a> </p>
 
